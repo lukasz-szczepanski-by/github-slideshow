@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to lukasz slide!"
 ---
-New text - sometjing new - this is GitHub learning slide
+This is my super slide
 Use the left arrow to go back!
